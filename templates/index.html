@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Sales Prediction</title>
+</head>
+<body>
+    <h1>Predict Sales</h1>
+    <form action="/predict" method="post">
+        <label for="Customers">Customers:</label><br>
+        <input type="number" id="Customers" name="Customers" required><br>
+        <label for="Open">Open (1: Open, 0: Closed):</label><br>
+        <input type="number" id="Open" name="Open" required><br>
+        <label for="Weekday">Weekday (1-7):</label><br>
+        <input type="number" id="Weekday" name="Weekday" required><br>
+        <label for="DayOfWeek">Day Of Week (1-7):</label><br>
+        <input type="number" id="DayOfWeek" name="DayOfWeek" required><br>
+        <label for="IsWeekend">Is Weekend (1: Yes, 0: No):</label><br>
+        <input type="number" id="IsWeekend" name="IsWeekend" required><br><br>
+        <input type="submit" value="Predict">
+    </form>
+</body>
+</html>
