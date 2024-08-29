@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Hp/Desktop/Data_Science_Jupyter/project-6%28Pharmaceutical%20Sales%29/notebook/mlruns/232683278375622210/671a76629de34132b81216b17cc00fc9/artifacts
+end_time: 1724904781759
+entry_point_name: ''
+experiment_id: '232683278375622210'
+lifecycle_stage: active
+run_id: 671a76629de34132b81216b17cc00fc9
+run_name: mercurial-lamb-154
+run_uuid: 671a76629de34132b81216b17cc00fc9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1724904547487
+status: 3
+tags: []
+user_id: Hp

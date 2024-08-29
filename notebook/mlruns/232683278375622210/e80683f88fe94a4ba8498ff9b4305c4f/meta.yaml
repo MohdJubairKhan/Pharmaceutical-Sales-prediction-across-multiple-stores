@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Hp/Desktop/Data_Science_Jupyter/project-6%28Pharmaceutical%20Sales%29/notebook/mlruns/232683278375622210/e80683f88fe94a4ba8498ff9b4305c4f/artifacts
+end_time: 1724904547412
+entry_point_name: ''
+experiment_id: '232683278375622210'
+lifecycle_stage: active
+run_id: e80683f88fe94a4ba8498ff9b4305c4f
+run_name: stately-cow-836
+run_uuid: e80683f88fe94a4ba8498ff9b4305c4f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1724904546933
+status: 3
+tags: []
+user_id: Hp
