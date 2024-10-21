@@ -1,5 +1,28 @@
-﻿# project_6_-pharmaceutical_sales-
+# Pharmaceutical Sales prediction across multiple stores 
 
-Pharmaceutical Sales prediction across multiple stores. End-to-end product that delivers this prediction using Flask.
+- Using Machine Learning and Deep Learning approaches to predict Pharmaceutical store(s) sales depending on factors such as promotions, competition, school and state holidays, seasonality, and locality as necessary for predicting the sales across the various stores
 
-Precise sales prediction is an essential and inexpensive way for each company to augment their profits, decrease their costs, and achieve greater flexibility to changes. In other words, exact sales forecasting is utilized for capturing the tradeoff between customer demand satisfaction and inventory costs. Especially, for the pharmaceutical industry, successful sales forecasting systems can be very beneficial, due to the short shelf-life of many pharmaceutical products and the importance of the product quality which is closely related to the human health.
+## Part 01. Exploration of customer purchasing behavior
+- The EDA is done in 'Exploration_of_customer_purchasing_behavior.ipynb' in notebook folder
+
+## Part 02. Prediction of Pharmaceutical store Sales
+
+- Data Preprocessing,
+- Building models with sklearn pipelines,
+- Choosing a loss function,
+- Post Prediction analysis,
+- Serialize models,
+- Building model with deep learning, and 
+- Using MLFlow to serve the prediction
+
+### This part is done in 'Exploration_of_customer_purchasing_behavior.ipynb' in notebook folder
+
+## Part 03. Building model with Deep Learning Using Tensorflow 
+
+- This part is done in 'Deep_Learning.ipynb' in notebook folder
+
+## Part 04. The Dashboard for ML Prediction 
+- This part is done in 'app.py' file in main directory
+
+## Part 05. The MLflow 
+- This part is done in 'scripts/app.py' file
