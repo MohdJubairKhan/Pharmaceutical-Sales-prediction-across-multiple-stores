@@ -6,7 +6,7 @@ app = Flask(__name__)
 
 # Load the trained model
 import os
-model_path = r'C:\Users\Hp\Desktop\Data_Science_Jupyter\project-6(Pharmaceutical Sales)\model-25-08-2024-12-50-26-874267.pkl'
+model_path = r'C:\Users\zubai\Desktop\Data_Science_Jupyter\project-6(Pharmaceutical Sales)\model-30-09-2024-13-38-45-324551.pkl'
 if os.path.exists(model_path):
     try:
         with open(model_path, 'rb') as model_file:
